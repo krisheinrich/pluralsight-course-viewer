@@ -1,1 +1,1 @@
-# react-redux-webpack-seed
+# pluralsight-course-viewer

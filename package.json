@@ -1,7 +1,7 @@
 {
-  "name": "react-redux-webpack-seed",
+  "name": "pluralsight-course-viewer",
   "version": "1.0.0",
-  "description": "Starter kit for developing React and Redux apps",
+  "description": "React/Redux web app for exploring PluralSight content.",
   "scripts": {
     "prestart": "babel-node tools/startMessage.js",
     "start": "npm-run-all --parallel open:src lint:watch test:watch",
@@ -66,10 +66,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/krisheinrich/react-redux-webpack-seed.git"
+    "url": "git+https://github.com/krisheinrich/pluralsight-course-viewer.git"
   },
   "bugs": {
-    "url": "https://github.com/krisheinrich/react-redux-webpack-seed/issues"
+    "url": "https://github.com/krisheinrich/pluralsight-course-viewer/issues"
   },
-  "homepage": "https://github.com/krisheinrich/react-redux-webpack-seed#readme"
+  "homepage": "https://github.com/krisheinrich/pluralsight-course-viewer#readme"
 }
